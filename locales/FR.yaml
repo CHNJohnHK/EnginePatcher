@@ -1,0 +1,161 @@
+font_as.ttf: fontcjk.ttf
+JUGAR: OYNA
+2019-2022 | Franyer: Engine Tribe v3.4
+INICIAR SESION: KULLANICI GİRİŞİ
+¡ADVERTENCIA!: UYARI
+Este es un "Fan Game" (De fans para fans): Bu bir fan oyunudur
+por lo cual no está respaldado por Nintendo.: Bu sebeple Nintendo tarafından onaylanmamıştır.
+'Todas las imagenes, músicas y recursos utilizados': kullanılan tüm görseller,müzikler ve kaynaklar
+en este son propiedad de Nintendo.: Nintendo'ya aittir.
+Graficos: Grafikler
+Activado: Aktif
+Desactivado: Pasif
+Idioma: Dil.
+Español: Türkce
+Detallados: Detaylı
+Personaje: Karakter
+Ventana: Pencere
+Sonidos: Ses
+Sesion iniciada: Giriş yap
+Guardar Nivel: Seviyeyi kaydet
+Tradicional: Standart
+Puzles: Bulmaca
+Contrarreloj: Speedrun
+Autoavance: Otomatik İlerleme
+Automatismos: oto-mario
+Corto pero intenso: Kısa ama yoğun 
+Competitivo: Çok oyunculu
+Tematico: Temalı
+Música: Müzik
+Artístico: Sanatsal
+Habilidad: Teknik
+Disparos: Atıcı
+Contra jefes: Boss savaşı
+En solitario: Tek oyunculu
+Aceptar: Tamam
+No hay elementos para guardar: Boş seviyeler kaydedilemiyor
+Nivel Guardado Corectamente: Başarıyla kaydedildi
+'Se procedera a cargar un nivel, se borrarán': Bir seviye yüklenecek, tüm unsurlar
+todos los elementos colocados hasta ahora.: şimdiye kadar yerleştirilen tüm öğeler..
+¿Deseas continuar?: Devam etmek istiyor musun?
+Publicar: Yayınla
+Editar: Düzenle
+Jugar: Oyna
+Explorar Niveles: Seviyeyi keşfet
+Juego Local: Çok oyunculu
+Desafio Super Mario: Mario'yoya meydan okumak
+Prometedores: Öne çıkan 
+Sin Record: Kayıt yok
+Se agrego a prometedores: Öne çıkanlara eklendi 
+Se elimino de prometedores: Öne çıkanlara eklendi
+#Record: Kayıt
+Populares: Popüler
+Novedades: Sonuncu
+Busqueda:  Arama
+Descargar: İndir
+Reportar: Bildir
+ID del nivel: Seviye kimliği
+Victorias: zaferler
+Cargando: Yükleniyor
+NOMBRE DEL NIVEL: SEVİYE ADI
+NOMBRE DEL CREADOR: OLUŞTURANIN ADI
+ESTILO DEL JUEGO: OYUN STİLİ
+Cualquiera: HİÇ
+TEMA DEL CURSO: LEVEL KONUSU
+DIFICULTAD: ZORLUK
+TIEMPO: ZAMAN
+HISTORIAL: KAYIT
+REACCION: REAKSİYON 
+ORDEN: DÜZEN
+IDENTIFICADOR: TANIMLAYICI
+BUSCAR: ARAMA
+#New Super Mario Bros U: 新超马U
+#Super Mario Bros 3: 超马3代
+#Super Mario World: 超马世界
+#Super Mario Bros: 超马1代
+#Overworld: 地面
+#Underground: 地下
+#Castle: 城堡
+#Underwater: 水中
+#Ghost House: 鬼屋
+#Airship: 飞船
+#Forest: 丛林
+#Sky: 天
+#Desert: 沙漠
+#Snow: 冰
+#Autumn: 枫林
+#Beach: 海
+Facil: Kolay
+Dificil: Zor
+Experto: Çok zor
+' dias': ' Gün'
+'Ultimos ': 'Son '
+Ultima semana: 'Geçen hafta'
+Ultimo mes: 'Geçen ay'
+Mis Superados: Temizlendi
+Mis no superados: Temizlenmedi
+Mas antiguos: en eski
+Mis gustados: beğenildi
+Mis no gustados: Sevilmedi
+Llega a la meta sin recibir daño: Hasar almadan hedefe ulaşın
+Llega a la meta sin tocar el suelo una vez: Yere bir kez dokunmadan bitiş çizgisine ulaşın
+que hayas separado los pies de el: yerden ayrıldıktan sonra 
+Llega a la meta sin tocar el suelo una vez que: İniş yapmadan hedefe ulaşın
+hayas separado los pies de él: yerden ayrıldıktan sonra
+Llega a la meta sin salir del agua: Suyu bırakmadan hedefe ulaşmak
+Llega a la meta sin recoger ninguna moneda: Herhangi bir jeton toplamadan bitiş çizgisine ulaşın
+
+Ninguno: Hiçbiri
+Lento: Yavaş
+Rapido: Hızlı
+SUPER MARIO MAKER WORLD ENGINE: 'SMM:WE ENGINE TRIBE'
+'Efectos (Estrella, POW)': 'Efektler (Yıldız ve POW)'
+Controles Tactiles: Dokunmatik kontroller
+Controles SM4J: SM4J Kontrolleri
+La condición especial ya no puede cumplirse: Özel koşul artık karşılanamıyor
+¡Genial!: Beğendim
+¡Así No!: Ordan değil!
+Continuar: Devam
+Volver a empezar: Baştan başlamak
+Guardabot: bot koruma
+Niveles Mundiales: Dünya Seviyeleri
+NOMBRE DE USUARIO: KULLANICI ADI
+Usuario: kullanıcı
+Contraseña: şifre
+Código: kod
+Error al recuperar los datos: Veri alınırken hata oluştu
+'Para poder publicar el nivel, debes comprobar': Seviyeyi yayınlamak için kontrol etmelisiniz
+que puedes superarlo. ¿Quieres intentarlo ahora?: üstesinden gelebileceğini. Şimdi denemek ister misin?
+¡Superalo desde el principio!: Baştan üstesinden gel!
+¡Superalo desde el checkpoint!: Kontrol noktasından üstesinden gelin.
+Publicando..: yükleniyor...
+Hubo un Problema al publicar el nivel: Seviye yayınlanırken bir sorun oluştu
+Copiar y Salir: 'Kopyala ve Çık'
+Salir: Çık
+Nivel descargado: Seviye indirildi
+El nivel ya existe: Zaten var
+Feliz Navidad: Mutlu Noeller
+Ya es DOMINGO: Mutlu pazarlar
+A hacer niveles se ha dicho: Haydi yapımına geçelim!
+DOMINGO:PR.
+LUNES: PT.
+MARTES: SL.
+MIERCOLES: ÇAR.
+JUEVES: PER.
+VIERNES: CUM.
+SABADO: CUT.
+No hay conexion a internet: İnternet bağlantısı yok
+Tiempo de conexion agotado: Bağlantı zaman aşımına uğradı
+Programador: Programcı
+'Sonido/': 'Ses/'
+#Spriters: 素材
+'Animación & Efectos': Animasyon ve Efektler
+Tipografía: Tipografi
+Aportes Adicionales: Diğer Katkılar
+Agradecimientos Especiales: Özel teşekkür
+Power by/Recursos: Tarafından desteklenmektedir
+Reintentar: Yenile
+Hoy: Şimdi
+Espera unos instantes...: Lütfen bekleyin...
+Se han guardado los cambios: Seviye kaydedildi
+Sí: 'Evet'
