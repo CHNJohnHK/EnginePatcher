@@ -122,38 +122,38 @@ Niveles Mundiales: Dünya Seviyeleri
 NOMBRE DE USUARIO: KULLANICI ADI
 Usuario: kullanıcı
 Contraseña: şifre
-Código: kod
-Error al recuperar los datos: Veri alınırken hata oluştu
-'Para poder publicar el nivel, debes comprobar': Seviyeyi yayınlamak için kontrol etmelisiniz
-que puedes superarlo. ¿Quieres intentarlo ahora?: üstesinden gelebileceğini. Şimdi denemek ister misin?
-¡Superalo desde el principio!: Baştan üstesinden gel!
-¡Superalo desde el checkpoint!: Kontrol noktasından üstesinden gelin.
-Publicando..: yükleniyor...
-Hubo un Problema al publicar el nivel: Seviye yayınlanırken bir sorun oluştu
-Copiar y Salir: 'Kopyala ve Çık'
-Salir: Çık
-Nivel descargado: Seviye indirildi
-El nivel ya existe: Zaten var
-Feliz Navidad: Mutlu Noeller
-Ya es DOMINGO: Mutlu pazarlar
-A hacer niveles se ha dicho: Haydi yapımına geçelim!
-DOMINGO:PR.
-LUNES: PT.
-MARTES: SL.
-MIERCOLES: ÇAR.
-JUEVES: PER.
-VIERNES: CUM.
-SABADO: CUT.
-No hay conexion a internet: İnternet bağlantısı yok
-Tiempo de conexion agotado: Bağlantı zaman aşımına uğradı
-Programador: Programcı
-'Sonido/': 'Ses/'
+Código: kod --here!
+Error al recuperar los datos: Erreur lors de la récupération des données
+'Para poder publicar el nivel, debes comprobar': Pour pouvoir publier le niveau, vous devez cocher
+que puedes superarlo. ¿Quieres intentarlo ahora?: que tu peux t'en remettre  Voulez-vous l'essayer maintenant ?
+¡Superalo desde el principio!: Dépassez-vous dès le début!
+¡Superalo desde el checkpoint!: Battez-le depuis le point de contrôle!
+Publicando..: Affectation...
+Hubo un Problema al publicar el nivel: Un problème est survenu lors de la publication du niveau
+Copiar y Salir: 'Copier et quitter'
+Salir: Sortir
+Nivel descargado: niveau téléchargé
+El nivel ya existe: Le niveau existe déjà
+Feliz Navidad: Joyeux Noël
+Ya es DOMINGO: C'est déjà dimanche
+A hacer niveles se ha dicho: Faire des niveaux a été dit
+DOMINGO: DIMANCHE
+LUNES: LUNDI
+MARTES: MARDI
+MIERCOLES: MERCREDI
+JUEVES: JEUDI
+VIERNES: VENDREDI
+SABADO: SAMEDI
+No hay conexion a internet: Il n'y a pas de connexion Internet
+Tiempo de conexion agotado: La connexion a expiré
+Programador: Programmeur
+'Sonido/': 'Du son/'
 #Spriters: 素材
-'Animación & Efectos': Animasyon ve Efektler
-Tipografía: Tipografi
-Aportes Adicionales: Diğer Katkılar
-Agradecimientos Especiales: Özel teşekkür
-Power by/Recursos: Tarafından desteklenmektedir --here!
+'Animación & Efectos': Animations et effets
+Tipografía: Typographie
+Aportes Adicionales: Cotisations supplémentaires
+Agradecimientos Especiales: Remerciement spécial
+Power by/Recursos: Alimenté par
 Reintentar: recommencez
 Hoy: Aujourd'hui
 Espera unos instantes...: Attendez quelques instants...
