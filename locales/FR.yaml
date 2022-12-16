@@ -1,74 +1,74 @@
 font_as.ttf: fontcjk.ttf
 JUGAR: OYNA
 2019-2022 | Franyer: Engine Tribe v3.4
-INICIAR SESION: KULLANICI GİRİŞİ
-¡ADVERTENCIA!: UYARI
-Este es un "Fan Game" (De fans para fans): Bu bir fan oyunudur
-por lo cual no está respaldado por Nintendo.: Bu sebeple Nintendo tarafından onaylanmamıştır.
-'Todas las imagenes, músicas y recursos utilizados': kullanılan tüm görseller,müzikler ve kaynaklar
-en este son propiedad de Nintendo.: Nintendo'ya aittir.
-Graficos: Grafikler
-Activado: Aktif
-Desactivado: Pasif
-Idioma: Dil.
-Español: Türkce
-Detallados: Detaylı
-Personaje: Karakter
-Ventana: Pencere
-Sonidos: Ses
-Sesion iniciada: Giriş yap
-Guardar Nivel: Seviyeyi kaydet
-Tradicional: Standart
-Puzles: Bulmaca
-Contrarreloj: Speedrun
-Autoavance: Otomatik İlerleme
-Automatismos: oto-mario
-Corto pero intenso: Kısa ama yoğun 
-Competitivo: Çok oyunculu
-Tematico: Temalı
-Música: Müzik
-Artístico: Sanatsal
-Habilidad: Teknik
-Disparos: Atıcı
-Contra jefes: Boss savaşı
-En solitario: Tek oyunculu
-Aceptar: Tamam
-No hay elementos para guardar: Boş seviyeler kaydedilemiyor
-Nivel Guardado Corectamente: Başarıyla kaydedildi
-'Se procedera a cargar un nivel, se borrarán': Bir seviye yüklenecek, tüm unsurlar
-todos los elementos colocados hasta ahora.: şimdiye kadar yerleştirilen tüm öğeler..
-¿Deseas continuar?: Devam etmek istiyor musun?
-Publicar: Yayınla
-Editar: Düzenle
-Jugar: Oyna
-Explorar Niveles: Seviyeyi keşfet
-Juego Local: Çok oyunculu
-Desafio Super Mario: Mario'yoya meydan okumak
-Prometedores: Öne çıkan 
-Sin Record: Kayıt yok
-Se agrego a prometedores: Öne çıkanlara eklendi 
-Se elimino de prometedores: Öne çıkanlara eklendi
-#Record: Kayıt
-Populares: Popüler
-Novedades: Sonuncu
-Busqueda:  Arama
-Descargar: İndir
-Reportar: Bildir
-ID del nivel: Seviye kimliği
-Victorias: zaferler
-Cargando: Yükleniyor
-NOMBRE DEL NIVEL: SEVİYE ADI
-NOMBRE DEL CREADOR: OLUŞTURANIN ADI
-ESTILO DEL JUEGO: OYUN STİLİ
-Cualquiera: HİÇ
-TEMA DEL CURSO: LEVEL KONUSU
-DIFICULTAD: ZORLUK
-TIEMPO: ZAMAN
-HISTORIAL: KAYIT
-REACCION: REAKSİYON 
-ORDEN: DÜZEN
-IDENTIFICADOR: TANIMLAYICI
-BUSCAR: ARAMA
+INICIAR SESION: 
+¡ADVERTENCIA!: 
+Este es un "Fan Game" (De fans para fans): 
+por lo cual no está respaldado por Nintendo.: 
+'Todas las imagenes, músicas y recursos utilizados': 
+en este son propiedad de Nintendo.: 
+Graficos: 
+Activado: 
+Desactivado: 
+Idioma: 
+Español: 
+Detallados: 
+Personaje: 
+Ventana: 
+Sonidos: 
+Sesion iniciada: 
+Guardar Nivel: 
+Tradicional: 
+Puzles: 
+Contrarreloj: 
+Autoavance: 
+Automatismos: 
+Corto pero intenso: 
+Competitivo: 
+Tematico: 
+Música: 
+Artístico: 
+Habilidad: 
+Disparos: 
+Contra jefes: 
+En solitario: 
+Aceptar: 
+No hay elementos para guardar: 
+Nivel Guardado Corectamente: 
+'Se procedera a cargar un nivel, se borrarán': 
+todos los elementos colocados hasta ahora.: 
+¿Deseas continuar?: 
+Publicar: 
+Editar: 
+Jugar: 
+Explorar Niveles: 
+Juego Local: 
+Desafio Super Mario: 
+Prometedores: 
+Sin Record: 
+Se agrego a prometedores: 
+Se elimino de prometedores: 
+#Record: 
+Populares: 
+Novedades: 
+Busqueda:  
+Descargar: 
+Reportar: 
+ID del nivel: 
+Victorias: 
+Cargando: 
+NOMBRE DEL NIVEL: 
+NOMBRE DEL CREADOR: 
+ESTILO DEL JUEGO: 
+Cualquiera: 
+TEMA DEL CURSO: 
+DIFICULTAD: 
+TIEMPO: 
+HISTORIAL: 
+REACCION:  
+ORDEN: 
+IDENTIFICADOR: 
+BUSCAR: 
 #New Super Mario Bros U: 新超马U
 #Super Mario Bros 3: 超马3代
 #Super Mario World: 超马世界
@@ -85,24 +85,24 @@ BUSCAR: ARAMA
 #Snow: 冰
 #Autumn: 枫林
 #Beach: 海
-Facil: Kolay
-Dificil: Zor
-Experto: Çok zor
-' dias': ' Gün'
-'Ultimos ': 'Son '
-Ultima semana: 'Geçen hafta'
-Ultimo mes: 'Geçen ay'
-Mis Superados: Temizlendi
-Mis no superados: Temizlenmedi
-Mas antiguos: en eski
-Mis gustados: beğenildi
-Mis no gustados: Sevilmedi
-Llega a la meta sin recibir daño: Hasar almadan hedefe ulaşın
-Llega a la meta sin tocar el suelo una vez: Yere bir kez dokunmadan bitiş çizgisine ulaşın
-que hayas separado los pies de el: yerden ayrıldıktan sonra 
-Llega a la meta sin tocar el suelo una vez que: İniş yapmadan hedefe ulaşın
-hayas separado los pies de él: yerden ayrıldıktan sonra
-Llega a la meta sin salir del agua: Suyu bırakmadan hedefe ulaşmak
+Facil: 
+Dificil: 
+Experto: 
+' dias': ' '
+'Ultimos ': ' '
+Ultima semana: ''
+Ultimo mes: ''
+Mis Superados: 
+Mis no superados: 
+Mas antiguos: 
+Mis gustados: 
+Mis no gustados: 
+Llega a la meta sin recibir daño: 
+Llega a la meta sin tocar el suelo una vez: 
+que hayas separado los pies de el: 
+Llega a la meta sin tocar el suelo una vez que: 
+hayas separado los pies de él: 
+Llega a la meta sin salir del agua: 
 Llega a la meta sin recoger ninguna moneda: 
 
 Ninguno: 
