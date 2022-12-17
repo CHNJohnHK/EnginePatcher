@@ -1,17 +1,17 @@
 font_as.ttf: fontcjk.ttf
 JUGAR: OYNA
 2019-2022 | Franyer: Engine Tribe v3.4
-INICIAR SESION: 
-¡ADVERTENCIA!: 
-Este es un "Fan Game" (De fans para fans): 
-por lo cual no está respaldado por Nintendo.: 
-'Todas las imagenes, músicas y recursos utilizados': 
-en este son propiedad de Nintendo.: 
+INICIAR SESION: COMMENCER LA SESSION
+¡ADVERTENCIA!: MISE EN GARDE!
+Este es un "Fan Game" (De fans para fans): C'est un "Fan Game" (De fans en fans)
+por lo cual no está respaldado por Nintendo.: par conséquent, il n'est pas approuvé par Nintendo.
+'Todas las imagenes, músicas y recursos utilizados': "Toutes les images, musiques et ressources utilisées"
+en este son propiedad de Nintendo.: dans ce sont la propriété de Nintendo.
 Graficos: 
 Activado: 
 Desactivado: 
 Idioma: 
-Español: 
+Español: Français
 Detallados: 
 Personaje: 
 Ventana: 
@@ -64,11 +64,11 @@ Cualquiera:
 TEMA DEL CURSO: 
 DIFICULTAD: 
 TIEMPO: 
-HISTORIAL: 
-REACCION:  
-ORDEN: 
-IDENTIFICADOR: 
-BUSCAR: 
+HISTORIAL: ENREGISTREMENT
+REACCION: RÉACTION
+ORDEN: ORDRE
+IDENTIFICADOR: IDENTIFIANT
+BUSCAR: CHERCHER
 #New Super Mario Bros U: 新超马U
 #Super Mario Bros 3: 超马3代
 #Super Mario World: 超马世界
@@ -85,39 +85,39 @@ BUSCAR:
 #Snow: 冰
 #Autumn: 枫林
 #Beach: 海
-Facil: 
-Dificil: 
-Experto: 
-' dias': ' '
-'Ultimos ': ' '
-Ultima semana: ''
-Ultimo mes: ''
-Mis Superados: 
-Mis no superados: 
-Mas antiguos: 
-Mis gustados: 
-Mis no gustados: 
-Llega a la meta sin recibir daño: 
-Llega a la meta sin tocar el suelo una vez: 
-que hayas separado los pies de el: 
-Llega a la meta sin tocar el suelo una vez que: 
-hayas separado los pies de él: 
-Llega a la meta sin salir del agua: 
-Llega a la meta sin recoger ninguna moneda: 
+Facil: Facile
+Dificil: Dur
+Experto: Expert
+' dias': ' jours'
+'Ultimos ': 'dernière '
+Ultima semana: 'Dernière semaine'
+Ultimo mes: 'Dernier mois'
+Mis Superados: mon surpassé
+Mis no superados: mon pas dépassé
+Mas antiguos: plus âgée
+Mis gustados: mes goûts
+Mis no gustados: mes dégoûts
+Llega a la meta sin recibir daño: Atteindre l'objectif sans subir de dégâts
+Llega a la meta sin tocar el suelo una vez: Atteindre la ligne d'arrivée sans toucher le sol une seule fois
+que hayas separado los pies de el: que tu as séparé tes pieds de lui
+Llega a la meta sin tocar el suelo una vez que: Atteindre l'objectif sans toucher le sol une seule fois
+hayas separado los pies de él: tu as séparé tes pieds de lui
+Llega a la meta sin salir del agua: Atteindre l'objectif sans sortir de l'eau
+Llega a la meta sin recoger ninguna moneda: Atteindre l'objectif sans collecter de pièces
 
-Ninguno: 
-Lento: 
-Rapido: 
+Ninguno: Aucun
+Lento: Lent
+Rapido: Vite
 SUPER MARIO MAKER WORLD ENGINE: 'SMM:WE ENGINE TRIBE'
-'Efectos (Estrella, POW)': ''
-Controles Tactiles: 
-Controles SM4J: 
-La condición especial ya no puede cumplirse: 
-¡Genial!: 
-¡Así No!: 
-Continuar: 
-Volver a empezar: 
-Guardabot: 
+'Efectos (Estrella, POW)': 'Effets (étoile, prisonnier de guerre)'
+Controles Tactiles: Commandes tactiles
+Controles SM4J: Commandes SM4J
+La condición especial ya no puede cumplirse: La condition spéciale ne peut plus être remplie
+¡Genial!: Brillant!
+¡Así No!: Ainsi non!
+Continuar: continuer
+Volver a empezar: Recommencer
+Guardabot: garde-bot
 Niveles Mundiales: niveaux mondiaux
 NOMBRE DE USUARIO: NOM D'UTILISATEUR
 Usuario: Utilisateur
