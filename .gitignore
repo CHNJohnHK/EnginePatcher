@@ -131,3 +131,5 @@ dmypy.json
 
 #custom
 patch_server_ip.sh
+
+SMM_WE.bak
