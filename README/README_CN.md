@@ -3,7 +3,7 @@
 
 #### 怎么用?
 
-##### SMM:WE for PC 补丁用法
+##### SMM:WE for PC
 
 - 用 `patch.py` 替换字符串
 
