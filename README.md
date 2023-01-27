@@ -1,4 +1,6 @@
 # Engine Patcher
+[中文](https://github.com/CHNJohnHK/EnginePatcher/blob/main/README/README_CN.md)
+
 🎞️ SMM:WE localization &amp; server patch
 
 #### Usage
