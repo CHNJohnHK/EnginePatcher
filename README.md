@@ -1,5 +1,5 @@
 # Engine Patcher
-[中文](https://github.com/CHNJohnHK/EnginePatcher/blob/main/README/README_CN.md)
+[中文](https://github.com/CHNJohnHK/EnginePatcher/blob/main/README/README_CN.md) [Español](https://github.com/CHNJohnHK/EnginePatcher/blob/main/README/README_ES.md)
 
 🎞️ SMM:WE localization &amp; server patch
 
